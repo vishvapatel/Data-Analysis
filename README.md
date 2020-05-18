@@ -3,7 +3,7 @@
 <hr/>
 <h5>What you will learn:</h5>
 <ul type="square">
-  <li>How to work with <b>Jupyter Notebooks</b>, for more details <a href="https://jupyter.org/documentation" target="_blank">Jupyter.org</a></li>
+  <li>How to work with <b>Jupyter Notebooks</b>, for more details <a href="https://jupyter.org/documentation" target="_blank">Jupyter.org</a>.Those who are not famalier with jupyter can also use .py files.</li>
   <li>Basics of <b>Pandas</b> - a python library used for data analysis.</li>
   <li>How to find out results by performing calculations on the data using mostly built in functions of pandas</li>
   <li>Introduction to <b>Matplotlib</b> - Python library to plot data</li>
