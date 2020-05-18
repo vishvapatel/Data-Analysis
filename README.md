@@ -1,5 +1,5 @@
 # Data-Analysis-A-z
-<h4>If you are new to python data analysis this repository is perfect for you to start withit contains friendly notebooks, links and a lot of exercises as well collected from <b>youtube, pluralsight, OpenLearn</b> and my own inputs</h4>
+<h4>If you are new to python data analysis this repository is perfect for you to start with it contains easy to grip notebooks, links and a lot of exercises as well collected from <b>youtube, pluralsight, OpenLearn</b> and my own inputs</h4>
 <hr/>
 <h5>What you will learn:</h5>
 <ul type="square">
@@ -26,4 +26,4 @@
   <li><strong>Twitter:</strong> @vnspvt</li>
 </ul>
 <hr/>
-<h1>Happy Learning...</h1>
+<h3>Happy Learning...</h3>
