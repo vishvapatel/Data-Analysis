@@ -5,7 +5,7 @@
 <ul type="square">
   <li>How to work with <b>Jupyter Notebooks</b>, for more details <a href="https://jupyter.org/documentation" target="_blank">Jupyter.org</a></li>
   <li>Basics of <b>Pandas</b> - a python library used for data analysis.</li>
-  <li>How to find out results by performing calculations on the data using mostly built in functions of pandas<li>
+  <li>How to find out results by performing calculations on the data using mostly built in functions of pandas</li>
   <li>Introduction to <b>Matplotlib</b> - Python library to plot data</li>
   <li>How to plot the results in the form of charts, histogram, line plot, 3D graphs etc.</li>
   <li>Various other important links for you to learn more in the section below</li>
@@ -16,7 +16,7 @@
   <li>There are folders based on different topics from A-z level.</li>
   <li>Each folder contains data files and notebook related to the topic.</li>
   <li>The topic is written in the commit section neighbouring the file name.</li>
-<ol>
+</ol>
 <hr/>
 <h3>This is a open source repository, so feel free to fork, generate a pull request, download etc.<h3>
 <hr/>
