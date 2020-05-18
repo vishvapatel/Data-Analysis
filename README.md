@@ -16,6 +16,8 @@
   <li>There are folders based on different topics from A-z level.</li>
   <li>Each folder contains data files and notebook related to the topic.</li>
   <li>The topic is written in the commit section neighbouring the file name.</li>
+  <li>You have to start your journey with Introduction to pandas file</li>
+  <li>Then you have to follow the part number</li>
 </ol>
 <hr/>
 <h3>This is a open source repository, so feel free to fork, generate a pull request, download etc.<h3>
