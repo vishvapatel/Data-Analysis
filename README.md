@@ -1,4 +1,4 @@
-# Data-Analysis-A-z
+# Data-Analysis
 <h4>If you are new to python data analysis this repository is perfect for you to start with it contains easy to grip notebooks, links and a lot of exercises as well collected from <b>youtube, pluralsight, OpenLearn</b> and my own inputs</h4>
 <hr/>
 <h5>What you will learn:</h5>
