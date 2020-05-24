@@ -1,10 +1,10 @@
 # Data-Analysis
-<h4>If you are new to python data analysis this repository is perfect for you to start with it contains easy to grip notebooks, links and a lot of exercises as well collected from <b>youtube, pluralsight, OpenLearn</b> and my own inputs</h4>
+<h4>If you are new to python data analysis this repository is perfect for you to start with it contains easy to grip notebooks compiled from learnings from <b>youtube, pluralsight, OpenLearn</b> and my own inputs</h4>
 <hr/>
 <h5>What you will learn:</h5>
 <ul type="square">
   <li>How to work with <b>Jupyter Notebooks</b>, for more details <a href="https://jupyter.org/documentation" target="_blank">Jupyter.org</a>.Those who are not famalier with jupyter can also use .py files.</li>
-  <li>Basics of <b>Pandas</b> - a python library used for data analysis.</li>
+  <li>Basics of <b>Pandas</b> - a python library used for data analysis, for more details <a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html" target="_blank">Pandas Documentation</a>.</li>
   <li>How to find out results by performing calculations on the data using mostly built in functions of pandas</li>
   <li>Introduction to <b>Matplotlib</b> - Python library to plot data</li>
   <li>How to plot the results in the form of charts, histogram, line plot, 3D graphs etc.</li>
@@ -18,6 +18,7 @@
   <li>The topic is written in the commit section neighbouring the file name.</li>
   <li>You have to start your journey with Introduction to pandas file.</li>
   <li>Then you have to follow the part number of the commit message.</li>
+  <li>The Data Visualization folder is the last to be attempted, it deals with all the potting and visualizing.</li>
 </ol>
 <hr/>
 <h3>This is a open source repository, so feel free to fork, generate a pull request, download etc.<h3>
